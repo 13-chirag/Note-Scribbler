@@ -12,13 +12,21 @@
 
 ### Landing Page
 
-![]()
+![](https://github.com/13-chirag/Note-Scribbler/blob/master/Readme_imgs/LangingPage.png)
+
+### Dynamic Web-Page
+
+![](https://github.com/13-chirag/Note-Scribbler/blob/master/Readme_imgs/Mobile_LandingPage.png)
 
 ### Login Form
 
 You can register a new account or login with an existing one.
 
-![]()
+![](https://github.com/13-chirag/Note-Scribbler/blob/master/Readme_imgs/Login.png)
+
+### Register Form
+
+![](https://github.com/13-chirag/Note-Scribbler/blob/master/Readme_imgs/Register.png)
 
 ### Edit Profile
 
@@ -26,11 +34,17 @@ You can register a new account or login with an existing one.
 
 ### All Notes
 
-![]()
+![](https://github.com/13-chirag/Note-Scribbler/blob/master/Readme_imgs/myNotes.png)
 
-### Edit Note
+![](https://github.com/13-chirag/Note-Scribbler/blob/master/Readme_imgs/myNotes_1.png)
 
-![]()
+### Users details in database
+
+![](https://github.com/13-chirag/Note-Scribbler/blob/master/Readme_imgs/mongo_users.png)
+
+### Notes details in database
+
+![](https://github.com/13-chirag/Note-Scribbler/blob/master/Readme_imgs/mongo_notes.png)
 
 ## Built with
 
